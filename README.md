@@ -1,4 +1,4 @@
-<h1 align=center>Educenter by AIS EduTech</h1> 
+<h1 align=center>Educenter by KS-EduTech</h1> 
 <p align=center> Educenter is specifically designed by Kazi Saabique Ahmed for educational websites. This sleek theme is packed with all the elements that you need to show info about your school, courses, instructors, announcements, and more. </p>
 
 <h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/educenter" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Feducenter%2Fsite%2F&form_factor=desktop">Page Speed (96%)</a></h2>
